@@ -24,4 +24,4 @@
 
     composer require "vjardin/hellorest:dev-master"
 
-    php tests/test.php
+    php vjardin/myfirst/tests/test.php
