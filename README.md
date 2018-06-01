@@ -22,6 +22,6 @@
 
 # redeploy
 
-    composer require "vjardin/hellorest:dev-master"
+    composer require "vjardin/myfirst:dev-master"
 
     php vjardin/myfirst/tests/test.php
