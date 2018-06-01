@@ -23,5 +23,4 @@
 # redeploy
 
     composer require "vjardin/myfirst:dev-master"
-
-    php vjardin/myfirst/tests/test.php
+    php vendor/vjardin/myfirst/tests/test.php
