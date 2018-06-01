@@ -7,6 +7,6 @@ class SayHello
 
   public static function world()
   {
-    return 'Hello World, repo!';
+    return 'Hello World, bonjour, repo!';
   }
 }
